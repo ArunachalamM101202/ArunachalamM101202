@@ -1,6 +1,6 @@
-# 💻 Arunachalam M
+# 💻 Arunachalam Manikandan
 
-👋 Hi there! I'm Arunachalam M, a passionate tech enthusiast with a keen interest in web development, mobile development, and deep learning.
+👋 Hi there! I'm Arunachalam Manikandan, a passionate tech enthusiast interested in web development, mobile development, machine and deep learning.
 
 ## 🚀 About Me
 
@@ -25,5 +25,4 @@
 ## 📈 GitHub Stats:
 
 ![Arunachalam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArunachalamM101202&show_icons=true&theme=radical)
-
-⭐️ From [Arunachalam M](https://github.com/ArunachalamM101202)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArunachalamM101202&layout=compact&theme=radical)
