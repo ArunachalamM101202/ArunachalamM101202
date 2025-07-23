@@ -1,14 +1,30 @@
-# 💻 Arunachalam Manikandan
+# Arunachalam Manikandan
 
-👋 Hi there! I'm Arunachalam Manikandan, a passionate tech enthusiast interested in web development, mobile development, machine and deep learning.
+I'm a Computer Science graduate student at the University of Minnesota and an AI Engineer at Supercell’s Innovation Lab. My work spans intelligent systems, generative AI, and real-time multi-agent frameworks. I specialize in designing scalable AI infrastructures that combine memory, planning, and multimodal reasoning.
 
-## 🚀 About Me
+## About Me
 
-- 🌱 I’m currently learning **React, React-Native, Machine Learning and Deep Learning**
-- 🔭 I’m working on various personal projects to enhance my skills
-- 🧠 I’m skilled in **C++, JavaScript, Python, React, Java and more**
-- 💬 Ask me about **problem-solving, web development, machine learning and technology in general**
-- 📫 How to reach me: **arunachalam101202[at]gmail[dot][com]**
+- 🎓 MS in Computer Science @ UMN (CGPA: 4.00/4.00)  
+- 🧠 Current AI focus: Multi-Agent Systems, LLMs, VLMs, Memory-Augmented Reasoning  
+- 💡 Built MinneDigest (AI news + podcast platform), funded by a $10,000 university grant  
+- 🏗 Published research on generative architectural AI (IEEE CVMI 2024)  
+- ✨ Passionate about building real-world apps using LLMs, RAG, and fast APIs
+
+## Technical Strengths
+
+- **Languages**: Python, C++, Java, Scala, JavaScript  
+- **AI/ML**: LLMs (LLaMA 3, GPT, Gemini), RLHF, LoRA, RAG, VLMs (Qwen2.5, BLIP)  
+- **Frameworks**: PyTorch, TensorFlow, Hugging Face, LangChain, Streamlit  
+- **Full Stack & Backend**: Flask, FastAPI, React, MongoDB, PostgreSQL, AWS  
+- **DevOps**: Docker, Git, OAuth2, JWT, REST APIs, Spark, Hadoop
+
+## Ask Me About
+
+- Multi-agent memory systems and retrieval  
+- Generative AI in architecture, design, and media  
+- Real-time LLM systems with custom backends  
+- AI + UX for news, games, healthcare, and education  
+- Deploying AI apps with Flask, FastAPI, Ollama, or AWS
 
 ## 🛠️ Languages and Tools:
 
