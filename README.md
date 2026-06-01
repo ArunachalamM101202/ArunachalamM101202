@@ -2,7 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Arun+%F0%9F%91%8B;AI+Engineer+%26+Researcher;Multi-Agent+Systems+%7C+LLMs+%7C+Vision+AI;Building+research+into+real+products)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ArunachalamM101202&style=flat-square&color=6A5ACD&label=Profile+Views)](https://github.com/ArunachalamM101202)
 
 </div>
 
@@ -37,16 +36,3 @@ I'm a Computer Science graduate student at the University of Minnesota (MS, GPA 
 - Multi-Agent Systems · Agentic AI · Memory-Augmented Reasoning
 - Generative AI · Deep Learning · NLP
 
----
-
-### GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ArunachalamM101202&theme=tokyonight&hide_border=true&border_radius=8)](https://git.io/streak-stats)
-
-[![Arunachalam's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArunachalamM101202&theme=tokyo-night&hide_border=true&radius=8)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ArunachalamM101202&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
