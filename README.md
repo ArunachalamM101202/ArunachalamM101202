@@ -1,46 +1,52 @@
-# Arunachalam Manikandan
+<div align="center">
 
-I'm a Computer Science graduate student at the University of Minnesota and an AI Engineer at Supercell’s Innovation Lab. My work spans intelligent systems, generative AI, and real-time multi-agent frameworks. I specialize in designing scalable AI infrastructures that combine memory, planning, and multimodal reasoning.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Arun+%F0%9F%91%8B;AI+Engineer+%26+Researcher;Multi-Agent+Systems+%7C+LLMs+%7C+Vision+AI;Building+research+into+real+products)
 
-## About Me
+[![Profile Views](https://komarev.com/ghpvc/?username=ArunachalamM101202&style=flat-square&color=6A5ACD&label=Profile+Views)](https://github.com/ArunachalamM101202)
 
-- 🎓 MS in Computer Science @ UMN (CGPA: 4.00/4.00)  
-- 🧠 Current AI focus: Multi-Agent Systems, LLMs, VLMs, Memory-Augmented Reasoning  
-- 💡 Built MinneDigest (AI news + podcast platform), funded by a $10,000 university grant  
-- 🏗 Published research on generative architectural AI (IEEE CVMI 2024)  
-- ✨ Passionate about building real-world apps using LLMs, RAG, and fast APIs
+</div>
 
-## Technical Strengths
+---
 
-- **Languages**: Python, C++, Java, Scala, JavaScript  
-- **AI/ML**: LLMs (LLaMA 3, GPT, Gemini), RLHF, LoRA, RAG, VLMs (Qwen2.5, BLIP)  
-- **Frameworks**: PyTorch, TensorFlow, Hugging Face, LangChain, Streamlit  
-- **Full Stack & Backend**: Flask, FastAPI, React, MongoDB, PostgreSQL, AWS  
-- **DevOps**: Docker, Git, OAuth2, JWT, REST APIs, Spark, Hadoop
+I'm a Computer Science graduate student at the University of Minnesota (MS, GPA 4.0/4.0), where I focus on large language models, deep learning, vision-language models, retrieval-augmented generation (RAG), and agentic AI systems. I enjoy building end-to-end systems that move from research ideas to real products.
 
-## Ask Me About
+---
 
-- Multi-agent memory systems and retrieval  
-- Generative AI in architecture, design, and media  
-- Real-time LLM systems with custom backends  
-- AI + UX for news, games, healthcare, and education  
-- Deploying AI apps with Flask, FastAPI, Ollama, or AWS
+### What I'm Working On
 
-## 🛠️ Languages and Tools:
+- **Graduate Research Assistant @ UMN** — Building deep learning pipelines for biomedical image segmentation using SAM and ViT with custom adapter layers, applied to whole-slide histology images. End-to-end: HPC cluster training → patch-based inference → GeoJSON outputs for downstream analysis.
+- **Co-Founder @ MinneDigest** — AI-powered newsroom platform. Won the AI + Local News Hackathon and received a **$10,000 grant** to continue development.
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React-Native](https://img.shields.io/badge/React--Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+---
 
-## 📈 GitHub Stats:
+### Highlights
 
-![Arunachalam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArunachalamM101202&show_icons=true&theme=radical)
+- 🏆 **Project Paradox accepted at WiML @ ICML 2026** — a multi-agent LLM framework built at Supercell's AI Innovation Lab in Helsinki, where agents maintain beliefs, emotions, personality, long-term memory, and dynamic planning for emergent gameplay. Presented to the CEOs of Supercell, Kabam, and Crunchyroll, and the Head of LEGO Digital Play.
+- 🏆 **AI + Local News Hackathon Winner** — $10,000 funded grant for MinneDigest
+- 🏆 **Multiple hackathon wins** across AI, health tech, and journalism
+- 🎓 MS in Computer Science @ UMN — GPA 4.0/4.0
+- 💼 Former SDE Intern @ **Visa Inc.** — built Spark/Scala pipelines processing 15M+ financial records daily
+- 🚀 Helped multiple startups go from zero to MVP, shipping AI-powered products to real users
+- ✍️ I love writing about what I build — [Medium](https://medium.com/@rome101202)
 
-## Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArunachalamM101202&layout=compact&theme=radical)
+---
+
+### Research & Focus Areas
+
+- Large Language Models · Vision-Language Models · Retrieval-Augmented Generation
+- Multi-Agent Systems · Agentic AI · Memory-Augmented Reasoning
+- Generative AI · Deep Learning · NLP
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ArunachalamM101202&theme=tokyonight&hide_border=true&border_radius=8)](https://git.io/streak-stats)
+
+[![Arunachalam's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArunachalamM101202&theme=tokyo-night&hide_border=true&radius=8)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ArunachalamM101202&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
